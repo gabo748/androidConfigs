@@ -1,0 +1,20 @@
+# INDICE DE INDICACIONES
+
+1. FRAGMENTS
+- [COMO CREAR FRAGMENTS](/Fragments.md)
+- [COMO CAMBIAR COLOR DE FONDO FRAGMENTS](/backgroudFragment.md)
+- [COMO PASAR DATOS ENTRE FRAGMENTS ESTATICOS](/staticFragments.md)
+
+2. MENU
+- [COMO CREAR UN MENU](/menu.md) (Siempre antes de crear un `toolbar` o `bottom nav` se debe crear un menu)
+- [COMO CREAR UN TOOLBAR](/toolbar.md)
+- [COMO CREAR UN BOTTOM NAVIGATION](/bottomNav.md)
+
+3. THEMES
+- [COMO CAMBIAR COLOR DE FONDO APP](/appTheme.md)
+
+4. CONTENIDO ASU
+- [COMPATIBILIDAD DE PANTALLA EN ANDROID](/ASUDisplay.md)
+- [CONFIGURACION DE JERARQUI](/ASUConfiguracion.md)
+- [UI RESPONSIVE CONSTRAINT LAYOUT](/ASUUIRESPONSIVE.md)
+- [PREFERENCIAS DE USUARIO](/ASUPreferenciasUsuarios.md)
